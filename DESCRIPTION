@@ -1,0 +1,11 @@
+Package: BPnotePKG
+Type: Package
+Title: iOS アプリ BPnote用のグラフ描画ツール
+Version: 0.0.0.1
+Author: kazuo fujimoto
+Maintainer: The package maintainer <kazuo.fujimoto2007@gmail.com>
+Description: BPnoteのバックアップCSVを図示する
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true

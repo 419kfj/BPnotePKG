@@ -3,6 +3,7 @@
 #
 # 2018-03-31 にBPTools.Rとして分離
 #
+# (c) kazuo fujimoto kazuo.fujimoto2007@gmail.com
 
 #
 # read BP csv and consitute to data frame
